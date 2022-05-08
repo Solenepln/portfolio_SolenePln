@@ -1,0 +1,129 @@
+body{
+    background-color: whitesmoke;
+}
+
+nav{
+    height: 50px;
+    background-color: rgb(51, 43, 43);
+    padding: 0.2em;
+}
+
+ul{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+li{
+    list-style: none;
+    margin-left: 2em;
+    margin-top: 1em;
+    align-items: center;
+}
+
+
+
+header a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 0.2em;
+}
+
+h1{
+    font-size: 20px;
+    line-height: 2.5em;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 20px;
+}
+
+.mescompetences {
+    margin-top: 25px;
+    margin-left: 50px;
+}
+.container {
+    background-color: rgb(202, 202, 202);
+    width: 80%;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+
+.skill {
+    color: black;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+#html{
+    color: rgb(199, 90, 154);
+}
+
+.html {
+    width: 60%;
+    background-color: rgb(199, 90, 154);
+}
+
+#php{
+    color: rgb(132, 170, 132);
+}
+.php {
+    width: 50%;
+    background-color: rgb(132, 170, 132);
+}
+
+#java{
+    color: rgb(255, 98, 25);
+}
+.java{
+    width: 60%;
+    background-color: rgb(255, 98, 25);
+}
+
+#python{
+    color: rgb(42, 209, 221);
+}
+.python{
+    width: 60%;
+    background-color: rgb(42, 209, 221);
+}
+
+#bd{
+    color: rgb(228, 164, 82);
+}
+.bd{
+    width: 60%;
+    background-color: rgb(228, 164, 82);
+}
+
+#sysrsx{
+    color: rgb(199, 150, 196);
+}
+
+.sysrsx{
+    width: 50%;
+    background-color: rgb(199, 150, 196);
+}
+
+#cyber{
+    color: rgb(42, 185, 204);
+}
+.cyber{
+    width: 50%;
+    background-color: rgb(42, 185, 204);
+}
+
+#anglais{
+    color: rgb(29, 153, 40);
+}
+
+.anglais{
+    width: 80%;
+    background-color: rgb(29, 153, 40);
+}
